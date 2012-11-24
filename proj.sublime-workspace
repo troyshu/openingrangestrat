@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aggPr",
+				"aggPricesDf"
+			],
+			[
+				"update",
+				"update_attributes"
+			],
+			[
+				"description",
+				"description"
+			],
+			[
+				"Ad",
+				"ADD"
+			],
+			[
+				"validates",
+				"validates_length_of"
+			],
+			[
+				"submitt",
+				"submitter_email"
+			],
+			[
+				"creat",
+				"create_idea_string"
+			],
+			[
+				"submit",
+				"submitter_email"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"pomodor",
+				"pomodoro_tags"
+			],
+			[
+				"pomo",
+				"pomodoro_tags"
+			],
+			[
+				"tag",
+				"tag_status"
+			],
+			[
+				"new",
+				"new_data_toGraph"
+			],
+			[
+				"updated",
+				"updated_at"
+			],
+			[
+				"raw",
+				"raw_pomodoros"
+			],
+			[
+				"data_array",
+				"data_array_toAdd"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"Pomodo",
+				"Pomodoros"
+			],
+			[
+				"grouped",
+				"grouped_pomodoros"
+			],
+			[
+				"updat",
+				"updated_at"
+			],
+			[
+				"typ",
+				"type_label"
+			],
+			[
+				"time",
+				"timeframe"
+			],
+			[
+				"pomodoros",
+				"pomodoros"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"unfinishe",
+				"unfinished_pomodoro"
+			],
+			[
+				"uf",
+				"unfinished_pomodoro"
+			],
+			[
+				"unfinis",
+				"unfinished_pomodoro"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"have_",
+				"have_link"
+			],
+			[
+				"sign",
+				"signin_path"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"shoul",
+				"should_not"
+			],
+			[
+				"WOR",
+				"WORKING"
+			],
+			[
+				"WORK",
+				"WORK_READY"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"submi",
+				"submit"
+			],
+			[
+				"gravat",
+				"gravatar_url"
+			],
+			[
+				"gravatar",
+				"gravatar_id"
+			],
+			[
+				"it",
+				"it	it \"should description\" do … end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "5minOHLC.py",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "openDayRange.py",
+			"settings":
+			{
+				"buffer_size": 1389,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 251.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/troyshu/quant finance/open day range/5minOHLC.py",
+		"/home/troyshu/rails_projects/habitxter/app/models/reminder.rb",
+		"/home/troyshu/rails_projects/habitxter/app/views/layouts/application.html.erb",
+		"/home/troyshu/rails_projects/habitxter/db/migrate/20121122192632_add_user_id_to_reminder.rb",
+		"/home/troyshu/rails_projects/habitxter/config/routes.rb",
+		"/home/troyshu/rails_projects/habitxter/app/views/static_pages/home.html.erb",
+		"/home/troyshu/rails_projects/habitxter/app/views/static_pages/help.html.erb",
+		"/home/troyshu/rails_projects/habitxter/app/views/habits/_form.html.erb",
+		"/home/troyshu/rails_projects/habitxter/app/models/habit.rb",
+		"/home/troyshu/rails_projects/habitxter/app/views/habits/show.html.erb",
+		"/home/troyshu/rails_projects/habitxter/config/application.rb",
+		"/home/troyshu/rails_projects/habitxter/app/controllers/habits_controller.rb",
+		"/home/troyshu/rails_projects/habitxter/app/models/user.rb",
+		"/home/troyshu/rails_projects/habitxter/app/models/action.rb",
+		"/home/troyshu/rails_projects/habitxter/app/controllers/user_sessions_controller.rb",
+		"/home/troyshu/rails_projects/habitxter/app/views/users/index.html.erb",
+		"/home/troyshu/rails_projects/habitxter/log/development.log",
+		"/home/troyshu/rails_projects/habitxter/app/helpers/user_sessions_helper.rb",
+		"/home/troyshu/rails_projects/habitxter/app/helpers/application_helper.rb",
+		"/home/troyshu/rails_projects/habitxter/db/migrate/20121121005345_add_user_id_to_habits.rb",
+		"/home/troyshu/rails_projects/habitxter/db/migrate/20121121005645_set_index_for_habits.rb",
+		"/home/troyshu/rails_projects/habitxter/db/migrate/20121121005804_add_habit_id.rb",
+		"/home/troyshu/rails_projects/habitxter/db/migrate/20121121005850_set_indices_for_actions.rb",
+		"/home/troyshu/rails_projects/habitxter/db/migrate/20121122123319_add_reminder_time_to_habit.rb",
+		"/home/troyshu/rails_projects/habitxter/Gemfile",
+		"/home/troyshu/rails_projects/habitxter/app/controllers/users_controller.rb",
+		"/home/troyshu/rails_projects/habitxter/app/helpers/users_helper.rb",
+		"/home/troyshu/rails_projects/habitxter/config/environment.rb",
+		"/home/troyshu/rails_projects/habitxter/app/views/users/_form.html.erb",
+		"/home/troyshu/rails_projects/habitxter/app/models/user_session.rb",
+		"/home/troyshu/rails_projects/habitxter/app/views/user_sessions/new.html.erb",
+		"/home/troyshu/rails_projects/habitxter/app/views/user_sessions/_form.html.erb",
+		"/home/troyshu/rails_projects/habitxter/app/controllers/application_controller.rb",
+		"/home/troyshu/cext_projects/tutorial/manifest.json",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/_form.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/db/ideas.txt",
+		"/home/troyshu/rails_projects/ideaexchange/app/models/idea.rb",
+		"/home/troyshu/Dropbox/cis240_lc4/sum_numbers.asm",
+		"/home/troyshu/Dropbox/cis240_lc4/prime_script",
+		"/home/troyshu/Dropbox/cis240_lc4/prime.asm",
+		"/home/troyshu/Dropbox/cis240_lc4/setup.txt",
+		"/home/troyshu/Dropbox/cis240_lc4/multiply_script.txt",
+		"/home/troyshu/Dropbox/cis240_lc4/sqrt_script",
+		"/home/troyshu/Dropbox/cis240_lc4/counter.asm",
+		"/home/troyshu/Dropbox/cis240_lc4/multiply.asm",
+		"/home/troyshu/rails_projects/ideaexchange/config/initializers/recaptcha.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/new.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/scaffolds.css.scss",
+		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/application.css",
+		"/home/troyshu/rails_projects/ideaexchange/app/controllers/static_pages_controller.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/custom.css.scss",
+		"/home/troyshu/rails_projects/ideaexchange/app/controllers/ideas_controller.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/idea_mailer/approve_idea_email.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/app/mailers/idea_mailer.rb",
+		"/home/troyshu/rails_projects/ideaexchange/db/migrate/20121005134818_add_email_to_ideas.rb",
+		"/home/troyshu/rails_projects/ideaexchange/Gemfile",
+		"/home/troyshu/rails_projects/ideaexchange/public/index.html",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/create.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/Gemfile.lock",
+		"/home/troyshu/rails_projects/ideaexchange/db/migrate/20121005014853_add_approved_to_ideas.rb",
+		"/home/troyshu/rails_projects/evening-earth-7467/Procfile",
+		"/home/troyshu/rails_projects/evening-earth-7467/config.ru",
+		"/home/troyshu/rails_projects/evening-earth-7467/app.rb",
+		"/home/troyshu/rails_projects/evening-earth-7467/dev.env",
+		"/home/troyshu/rails_projects/evening-earth-7467/Gemfile",
+		"/home/troyshu/rails_projects/evening-earth-7467/.env",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/about.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/static_pages_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/users_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/sessions_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/reddit productivity post",
+		"/home/troyshu/Desktop/emails.csv",
+		"/home/troyshu/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/css/jquery.tagit.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/application.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/help.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/routes.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/Gemfile",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/application_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/show.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/database.yml.pg",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/database.yml",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/Gemfile.lock",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/notready.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/application_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/pomodoros_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/sessions_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/_timer_js.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/models/user.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/_show_user_charts.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_footer.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/_warning_starter_limit.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/home.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/application.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/environment.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/application.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/application.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/jquery.tagsinput.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/tagit.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/tagit.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/timer_header.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/tagbox.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/models/pomodoro.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/users_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/timer.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/pricing.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/pomodoros_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/pomodoros/create.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/contact.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/new.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_header.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/premiumonly.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/tipsy.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.tipsy.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/tinybox_style.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/log/development.log",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/edit.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/resources/tinybox2/index.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/custom.css.scss",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.sound.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/spec/requests/user_pages_spec.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/pomodoros/_pomodoro.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/tinybox.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/notready.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_shim.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/static_pages_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/lib/tasks/sample_data.rake",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/spec/factories.rb"
+	],
+	"find":
+	{
+		"height": 88.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"openDayRange",
+			"parsed",
+			"rufus",
+			"scheduled",
+			"creating new habit for current user",
+			"creating new habit for",
+			"current user",
+			" ",
+			"flash",
+			" &reg;",
+			"Pomodoro Technique",
+			"Pomodoro",
+			"Pomodoros",
+			",",
+			", ",
+			"\"",
+			"where",
+			"user_l",
+			"in getpr",
+			"in getpremium",
+			"openTimerPopup",
+			"openTimer",
+			"20px",
+			"tags",
+			"console.",
+			"pomodoros in ",
+			"tags for tag",
+			"color",
+			"height",
+			"strong",
+			"Pomos",
+			"form",
+			"user path",
+			"css",
+			"styl",
+			"css",
+			"}",
+			">",
+			"pomodoros s",
+			"moving onto",
+			"in get_data",
+			"show data",
+			"STORE LOCATION",
+			"ssl",
+			"rails",
+			"rail",
+			"rails",
+			"					<",
+			"user_path",
+			"visit",
+			"config.acti",
+			"signed_in",
+			"  \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"&nbsp;",
+			"&reg;",
+			"Pomodoro Technique &reg;",
+			"pomodoros",
+			"",
+			",",
+			", \\r",
+			"",
+			"POMOS"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "5minOHLC.py",
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "openDayRange.py",
+					"settings":
+					{
+						"buffer_size": 1389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1196,
+								1196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 551.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.tests":
+	{
+		"height": 184.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true
+}
